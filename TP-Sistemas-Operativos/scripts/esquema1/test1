@@ -1,0 +1,11 @@
+#! /bin/bash
+cd /home/utnso/tp-2013-2c-volvimos-en-forma-de-sockets/scripts/esquema1
+gnome-terminal -e "./plataforma"
+gnome-terminal -e "./nivel1"
+gnome-terminal -e "./nivel2"
+gnome-terminal -e "./nivel3"
+gnome-terminal -e "./nivel8"
+gnome-terminal -e "./mario"
+gnome-terminal -e "./luigi"
+gnome-terminal -e "./koopa"
+

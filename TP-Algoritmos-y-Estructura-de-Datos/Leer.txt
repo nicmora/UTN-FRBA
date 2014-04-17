@@ -1,0 +1,16 @@
+1) Crear el archivo de texto de usuarios según explicaciones del TP.
+2) Desarrollar un procedimiento que a partir del archivo de texto de usuarios, grabe el archivo binario de usuarios y el archivo binario de mensajes (sin datos). Los archivos de usuarios y mensajes deben estar asignados antes de invocar al procedimiento. Utilizar los types definidos en el TP.
+
+Procedure GrabarArchivosBinarios (Var AUSUARIOS:TARCHUSUARIOS; Var AMENSAJES:TARCHMENSAJES).
+
+3) Desarrollar un procedimiento que grabe en un archivo de texto el archivo de usuarios de acuerdo al TP.
+4) Desarrollar un procedimiento que grabe en un archivo de texto el archivo de mensajes de acuerdo al TP.
+5) Desarrollar un procedimiento CrearArchivosBinarios sin parámetros que muestre el siguiente menú:
+	
+	a) Grabar archivos binarios
+	b) Listar archivo de usuarios
+	c) Listar archivo de mensajes
+	d) Volver al menu anterior
+
+6) No utilice el Procedure AsignarCrearArchivo (procedimiento que se encuentra en el TP).
+7) Utilizar la función fileexist para comprobar la existencia de los archivos.

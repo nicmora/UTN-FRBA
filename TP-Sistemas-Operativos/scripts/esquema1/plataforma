@@ -1,0 +1,3 @@
+#! /bin/bash
+cd /home/utnso/tp-2013-2c-volvimos-en-forma-de-sockets/plataforma/Debug/
+./plataforma "/home/utnso/tp-2013-2c-volvimos-en-forma-de-sockets/tests/plataforma.cfg"

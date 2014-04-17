@@ -1,0 +1,4 @@
+#! /bin/bash
+cd /home/utnso/tp-2013-2c-volvimos-en-forma-de-sockets/nivel/Debug/
+./nivel "/home/utnso/tp-2013-2c-volvimos-en-forma-de-sockets/tests/esquema2/nivel0.cfg"
+
